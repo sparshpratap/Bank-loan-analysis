@@ -9,7 +9,7 @@
 - Design clear, interactive dashboards for business decision-making
 
 ## Key KPIs and Metrics
-- Total and Month-to-Date (MTD) Loan Applications
+- Total Loan Applications
 - Total Funded Amount
 - Total Amount Received
 - Average Interest Rate
